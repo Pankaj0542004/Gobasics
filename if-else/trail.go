@@ -25,7 +25,7 @@ func main() {
 
 		fmt.Printf("Enter your last name: ")
 		fmt.Scan(&lastName)
-
+		
 		fmt.Printf("Enter your email address: ")
 		fmt.Scan(&email)
 
