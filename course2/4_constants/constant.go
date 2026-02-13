@@ -7,6 +7,6 @@ func main() {
 	// They are defined using the 'const' keyword.
 
 	const name string = "Pankaj Marathe"
-
+	
 	fmt.Println("Name:", name)
 }
